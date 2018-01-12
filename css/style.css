@@ -1,5 +1,7 @@
 body {
 	background-color: #eda;
+	width: 1000px;
+	margin: 0 auto;
 }
 
 h1 {
